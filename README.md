@@ -31,7 +31,7 @@ _I'm just getting started, but here is what I'm playing with:_
 
 ### 📫 Connect with me
 
-- **Email:** [Your Email Here]
-- **Blog:** [Your Blog Link]
+- **Email:** 2967094107@qq.com
+- **Blog:** bangbangbangbaic.github.io
 
 _<p align="center">Keep Calm and Code On! 💻✨</p>_
