@@ -34,10 +34,6 @@
 ## Github DashBorad
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NeverENG&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeverENG&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
@@ -48,14 +44,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NeverENG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub trophies including pull request level" />
 </p>
-
-| Track | Current Practice | Still Working On |
-|---|---|---|
-| Pull Requests | `71+` public PRs, mostly small steps | Cleaner changes, better tests, clearer review notes |
-| Issues | `28+` public issues | Better reproductions and more useful technical context |
-| Repositories | `14` public repos | Fewer scattered experiments, more maintained projects |
-| Projects | BanDB / BanLea are current focus areas | Docs, examples, benchmarks, and steadier iteration |
-| Code Review | Trying to understand review standards | Writing comments that are precise, kind, and actionable |
 
 ---
 
@@ -73,37 +61,6 @@ If this is used in the NeverENG/NeverENG profile repository, you can add a GitHu
   <img src="https://raw.githubusercontent.com/NeverENG/NeverENG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 -->
-
----
-
-## Current Quest
-
-```mermaid
-mindmap
-  root((NeverENG))
-    Infra
-      Go
-      Storage Engine
-      Database Internals
-      Network Programming
-    AI Tooling
-      PR Review
-      Learning Assistant
-      LLM Product Design
-    Foundations
-      Java
-      C
-      Python
-      Algorithms
-    Open Source
-      Pull Requests
-      Issues
-      Code Review
-      Documentation
-```
-
----
-
 ## Connect
 
 <p align="center">
