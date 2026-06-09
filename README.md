@@ -23,25 +23,6 @@
 </p>
 
 ---
-
-## About Me
-
-```txt
-System initializing...
-Loading personality modules...
-Done.
-```
-
-I'm **NeverENG**, a freshman at **Nanchang University** and a Computer Science learner still mapping the terrain.
-
-- Motto: `种一棵树最好的时间是十年前，其次是现在`
-- Current focus: database/storage basics, Go backend systems, AI-assisted developer tooling, and personal learning systems.
-- Current bug: trying to fix my sleep schedule without introducing a new infinite loop.
-- Working style: learn from real code, build small versions, then slowly improve the parts I understand poorly.
-- Open source mode: making small PRs, reading issues, and learning how maintainers think about tradeoffs.
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -72,18 +53,6 @@ I'm **NeverENG**, a freshman at **Nanchang University** and a Computer Science l
     <td>Git, GitHub PRs, issue tracking, docs, tests, code review</td>
   </tr>
 </table>
-
----
-
-## Featured Projects
-
-| Project | Stack | What It Shows |
-|---|---|---|
-| [BanDB](https://github.com/NeverENG/BanDB) | Go | A database/storage learning project, currently exploring WAL and backend structure |
-| [BanLea](https://github.com/NeverENG/BanLea) | TypeScript, Rust, Tauri | An AI learning-assistant experiment with a local-first desktop direction |
-| [BanGD-AI-PR-Review-Tool](https://github.com/NeverENG/BanGD-AI-PR-Review-Tool) | TypeScript | An early attempt at AI-assisted PR review for database-like repositories |
-
----
 
 ## GitHub Dashboard
 
