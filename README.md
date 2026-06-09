@@ -30,13 +30,9 @@
     <img src="https://skillicons.dev/icons?i=go,ts,js,java,python,c,rust,react,vite,tauri,git,github,vscode,linux,md&perline=8" alt="Skill icons" />
   </a>
 </p>
----
-## GitHub Dashboard
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NeverENG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="NeverENG GitHub stats with PR stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverENG&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
+## Github DashBorad
+---
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NeverENG&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 </p>
