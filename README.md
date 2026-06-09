@@ -30,30 +30,6 @@
     <img src="https://skillicons.dev/icons?i=go,ts,js,java,python,c,rust,react,vite,tauri,git,github,vscode,linux,md&perline=8" alt="Skill icons" />
   </a>
 </p>
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Go, TypeScript, Java, Python, C, Rust, Markdown</td>
-  </tr>
-  <tr>
-    <td><strong>Backend / Systems</strong></td>
-    <td>Go services, storage-engine practice, TCP server basics, distributed-system reading</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend / Desktop</strong></td>
-    <td>React, TypeScript, Vite, Tauri</td>
-  </tr>
-  <tr>
-    <td><strong>AI Tooling</strong></td>
-    <td>AI PR review experiments, learning assistant ideas, LLM-facing product design</td>
-  </tr>
-  <tr>
-    <td><strong>Workflow</strong></td>
-    <td>Git, GitHub PRs, issue tracking, docs, tests, code review</td>
-  </tr>
-</table>
-
 ## GitHub Dashboard
 
 <p align="center">
