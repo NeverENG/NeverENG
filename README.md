@@ -23,44 +23,17 @@
 </p>
 
 ---
-## Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,ts,js,java,python,c,rust,react,vite,tauri,git,github,vscode,linux,md&perline=8" alt="Skill icons" />
   </a>
 </p>
-
-## Github DashBorad
 ---
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeverENG&theme=tokyonight" alt="GitHub profile details" />
 </p>
-
 ---
 
-## PR & Contribution Level
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NeverENG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Commits,PullRequest,Reviews,Repositories,Stars,Followers,Issues" alt="GitHub trophies including pull request level" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeverENG&theme=tokyo-night&hide_border=true&area=true&custom_title=NeverENG%27s%20Contribution%20Graph" alt="Contribution graph" />
-</p>
-
-<!--
-Optional extra effect:
-If this is used in the NeverENG/NeverENG profile repository, you can add a GitHub Action to generate a snake contribution SVG, then uncomment this block.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NeverENG/NeverENG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
--->
 ## Connect
 
 <p align="center">
