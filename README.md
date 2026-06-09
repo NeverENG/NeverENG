@@ -82,8 +82,6 @@ I'm **NeverENG**, a freshman at **Nanchang University** and a Computer Science l
 | [BanDB](https://github.com/NeverENG/BanDB) | Go | A database/storage learning project, currently exploring WAL and backend structure |
 | [BanLea](https://github.com/NeverENG/BanLea) | TypeScript, Rust, Tauri | An AI learning-assistant experiment with a local-first desktop direction |
 | [BanGD-AI-PR-Review-Tool](https://github.com/NeverENG/BanGD-AI-PR-Review-Tool) | TypeScript | An early attempt at AI-assisted PR review for database-like repositories |
-| [Zinx-Go-](https://github.com/NeverENG/Zinx-Go-) | Go | TCP server framework practice while learning network-programming fundamentals |
-| [Javahomework](https://github.com/NeverENG/Javahomework) | Java, JS, CSS, HTML | Coursework and Java/full-stack practice |
 
 ---
 
