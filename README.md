@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:22c55e&text=NeverENG&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Freshman%20at%20NCU%20%7C%20Computer%20Science%20Explorer&descAlignY=58&animation=fadeIn" alt="NeverENG profile banner" />
-</p>
 
-<p align="center">
-  <img width="118" src="https://avatars.githubusercontent.com/u/272411924?v=4" alt="NeverENG avatar" />
-</p>
 
 <p align="center">
   <a href="https://github.com/NeverENG">
@@ -39,9 +33,6 @@
 <p align="center">
   <a href="mailto:2967094107@qq.com">
     <img src="https://img.shields.io/badge/Email-2967094107%40qq.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://bangbangbangbaic.github.io">
-    <img src="https://img.shields.io/badge/Blog-bangbangbangbaic.github.io-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
   </a>
 </p>
 
