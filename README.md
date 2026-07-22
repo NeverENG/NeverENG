@@ -1,4 +1,7 @@
 
+- love CS
+- Want to meet more people
+- chat with me in Wechat ：a2967094107
 
 <p align="center">
   <a href="https://github.com/NeverENG">
@@ -12,7 +15,7 @@
   <img src="https://img.shields.io/badge/Public%20Repos-14-38bdf8?style=flat-square" alt="Public repositories" />
   <img src="https://img.shields.io/badge/Public%20PRs-71%2B-22c55e?style=flat-square" alt="Public pull requests" />
   <img src="https://img.shields.io/badge/Public%20Issues-28%2B-f59e0b?style=flat-square" alt="Public issues" />
-  <img src="https://img.shields.io/badge/NCU-Freshman-ef4444?style=flat-square" alt="NCU freshman" />
+  <img src="https://img.shields.io/badge/NCUHOME-Member-8b5cf6?style=flat-square" alt="NCUSCC member" />
   <img src="https://img.shields.io/badge/NCUHOME-Member-8b5cf6?style=flat-square" alt="NCUHOME member" />
 </p>
 
