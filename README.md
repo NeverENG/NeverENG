@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/NeverENG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+NeverENG.;Freshman+at+Nanchang+University.;Learning+by+building+small+but+serious+projects.;Go+%7C+TypeScript+%7C+Java+%7C+Rust+%7C+Open+Source" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+BangBang.;Learning+by+building+small+but+serious+projects.;Go+%7C+TypeScript+%7C+Java+%7C+Rust+%7C+Open+Source" alt="Typing intro" />
   </a>
 </p>
 
@@ -28,13 +28,6 @@
 </p>
 ---
 
-## Connect
-
-<p align="center">
-  <a href="mailto:2967094107@qq.com">
-    <img src="https://img.shields.io/badge/Email-2967094107%40qq.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,55:2563eb,100:0f172a" alt="Footer wave" />
