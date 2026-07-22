@@ -19,19 +19,11 @@
   <img src="https://img.shields.io/badge/NCUHOME-Member-8b5cf6?style=flat-square" alt="NCUHOME member" />
 </p>
 
----
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,ts,js,java,python,c,rust,react,vite,tauri,git,github,vscode,linux,md&perline=8" alt="Skill icons" />
   </a>
 </p>
----
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeverENG&theme=tokyonight" alt="GitHub profile details" />
-</p>
----
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,55:2563eb,100:0f172a" alt="Footer wave" />
 </p>
