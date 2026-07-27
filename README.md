@@ -29,8 +29,3 @@
 ![PRs](https://img.shields.io/badge/PRs-71%2B-22c55e?style=flat)
 
 ---
-
-## Connect
-
-- 🐙 [GitHub](https://github.com/NeverENG)
-- 🏢 [NCUSCC](https://github.com/ncu-cc)
