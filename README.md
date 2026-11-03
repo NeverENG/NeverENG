@@ -1,14 +1,15 @@
 
 
 # Hi, I'm BangBang
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=种一棵树的最好的时间是十年前，其次是现在)<br>
+## 🧭 About Me
 - I love CS and Csgo.
 - love backend and frontend.
-- I love use QQ, QQ number is 2967094107,Please add me!
+- I love use QQ, QQ number is 2967094107.
 - My Wechat is a2967094107.
 ---
 
-### Projects
+## 🔭 Currently contributing to
 
 | Project | Area | About |
 | --- | --- | --- |
@@ -18,8 +19,7 @@
 | [Getty](https://github.com/AlexStocks/getty) | Go networking / RPC | A Netty-like asynchronous network I/O library based on TCP/UDP/WebSocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on ZooKeeper/etcd. |
 | [KairosFlux](https://github.com/NeverENG/KairosFlux) | AI-native time-series database | KairosDB - 更 AI native 的云原生时序数据库存储引擎 |
 
-### GitHub Stats
-
+## 📈 GitHub Activity
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeverENG&show_icons=true&hide_border=true&rank_icon=github)
