@@ -14,13 +14,13 @@
 
 ### Projects
 
-| Project | Description |
-| --- | --- |
-| [SeekMemory](https://github.com/NeverENG/SeekMemory) | AgentRuntime × evidence-backed memory.One brain. Many entry points. |
-| [Apache Dubbo-go](https://github.com/apache/dubbo-go) | Go Implementation For Apache Dubbo. |
-| [Apache Dubbo .NET](https://github.com/apache/dubbo-net) | .NET Implementation For Apache Dubbo. |
-| [Getty](https://github.com/AlexStocks/getty) | a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd |
-| [KairosFlux](https://github.com/NeverENG/KairosFlux) | KairosDB - 更 AI native 的云原生时序数据库存储引擎 |
+| Project | Area | About |
+| --- | --- | --- |
+| [SeekMemory](https://github.com/NeverENG/SeekMemory) | Agent runtime / memory | AgentRuntime × evidence-backed memory. One brain. Many entry points. |
+| [Apache Dubbo-go](https://github.com/apache/dubbo-go) | Go RPC / microservices | Go implementation of Apache Dubbo. |
+| [Apache Dubbo .NET](https://github.com/apache/dubbo-net) | .NET RPC / microservices | .NET implementation of Apache Dubbo. |
+| [Getty](https://github.com/AlexStocks/getty) | Go networking / RPC | A Netty-like asynchronous network I/O library based on TCP/UDP/WebSocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on ZooKeeper/etcd. |
+| [KairosFlux](https://github.com/NeverENG/KairosFlux) | AI-native time-series database | KairosDB - 更 AI native 的云原生时序数据库存储引擎 |
 
 ### GitHub Stats
 
