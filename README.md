@@ -1,32 +1,50 @@
 <div align="center">
 
-# BangBang (NeverENG)
+# 👋 BangBang
 
-**Building systems around agents, memory, and distributed software.**
+**Software Engineer · Open Source · Distributed Systems & AI Agents**
 
-[GitHub](https://github.com/NeverENG) · [Blog](https://NeverENG.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-NeverENG-181717?style=flat&logo=github)](https://github.com/NeverENG)
+[![Blog](https://img.shields.io/badge/Blog-NeverENG.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://NeverENG.github.io)
 
 </div>
 
 ## About
 
-I’m interested in distributed systems, agent runtimes, and evidence-backed memory. I enjoy turning architectural ideas into working software and contributing to open source.
+关注分布式系统、Agent Runtime 与长期记忆系统，主要使用 **Python、Go、Rust 和 TypeScript**。喜欢把想法做成可运行、可验证的工程项目。
 
-## Selected work
+## Projects
 
-| Project | What it is |
-| --- | --- |
-| [SeekMemory](https://github.com/NeverENG/SeekMemory) | An AgentRuntime and evidence-backed memory kernel, with platform adapters and a focus on traceable memory and recall. |
-| [DubboNet](https://github.com/apache/dubbo-net) | A .NET client for Apache Dubbo. I contributed a Hessian2 validation fix: [PR #15](https://github.com/apache/dubbo-net/pull/15). |
-| [PowerContext](https://github.com/oceanbase/powercontext) | Contributed a source-identity read fix: [PR #2030](https://github.com/oceanbase/powercontext/pull/2030). |
+- **[SeekMemory](https://github.com/NeverENG/SeekMemory)** — 面向 Agent 的 Runtime 与证据驱动记忆内核，支持可追溯记忆、上下文召回和多平台接入。
+- **[ARTEX](https://github.com/NeverENG/ARTEX)** — AI 自主渗透测试系统，百度「Agent+」攻防挑战赛冠军项目。
+- **[XSoup](https://github.com/NeverENG/XSoup)** — 基于 Rust 的高性能游戏实时对战网络框架。
+- **[BanGD](https://github.com/NeverENG/BanGD)** — 面向 BanDB 的 AI Pull Request Review 工具。
 
-## Focus
+## Tech
 
-`Python` · `Go` · `Rust` · `TypeScript`  
-Agent runtimes · Memory systems · Distributed systems · RPC
+`Python` · `Go` · `Rust` · `TypeScript` · `C++`
 
-## Open source
+`Distributed Systems` · `Agent Runtime` · `Memory Systems` · `RPC`
 
-I’m a member of **NCUHOME** and **NCUSCC**, and contribute to projects in the Apache Dubbo ecosystem. I welcome thoughtful discussions and collaboration.
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/NeverENG">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NeverENG&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/NeverENG?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverENG&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=NeverENG&hide_border=true&area=true)](https://github.com/NeverENG)
+
+</div>
+
+---
 
 > 种一棵树最好的时间是十年前，其次是现在。
