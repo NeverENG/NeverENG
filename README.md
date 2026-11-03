@@ -1,15 +1,12 @@
 
 
 # Hi, I'm BangBang
----
+
 - I love CS and Csgo.
 - love backend and frontend.
 - I love use QQ, QQ number is 2967094107,Please add me!
 - My Wechat is a2967094107.
-
-### Languages & Tools
-
-[![Languages and tools](https://skillicons.dev/icons?i=go,python,rust,react,ts)](https://skillicons.dev)
+---
 
 ### Projects
 
