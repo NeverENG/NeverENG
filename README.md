@@ -1,12 +1,11 @@
-<div align="center">
+
 
 # Hi, I'm BangBang
-
-**开源贡献者 · 计算机爱好者**
-
-[![GitHub](https://img.shields.io/badge/GitHub-NeverENG-181717?style=flat&logo=github)](https://github.com/NeverENG)
-
-</div>
+---
+- I love CS and Csgo.
+- love backend and frontend.
+- I love use QQ, QQ number is 2967094107,Please add me!
+- My Wechat is a2967094107.
 
 ### Languages & Tools
 
